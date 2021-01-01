@@ -1,2 +1,2 @@
 # rubiks-android
-rendering rubiks-cube 
+having fun with Jetpack Compose for rendering a rubiks-cube 
